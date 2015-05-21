@@ -1,0 +1,22 @@
+html, body
+{
+    height: 100%;
+}
+.blue{
+	background-color: blue
+}
+.red{
+	background-color: red
+}
+.yellow{
+	background-color: yellow
+}
+.green{
+	background-color: green
+}
+p{
+	font:48px arial
+}
+.answer{
+	width:100%
+}
